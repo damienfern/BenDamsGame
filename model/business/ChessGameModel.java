@@ -15,7 +15,7 @@ import tools.data.Couleur;
  * des jeux d'échec
  *
  */
-public interface ChessGameModel {	
+public interface ChessGameModel extends ChessGameImplementor{	
 
 	
 	/**

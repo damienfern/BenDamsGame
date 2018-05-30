@@ -4,7 +4,7 @@ import java.util.EventListener;
 
 import controler.ChessGameControlerModelVue;
 
-public class ChessGridGUIListener implements EventListener {
+public class ChessGridGUIListener extends ChessGUI implements EventListener {
 
 	public ChessGridGUIListener(ChessGridGUI chessGridGUI,
 			ChessGameControlerModelVue chessGameControler) {

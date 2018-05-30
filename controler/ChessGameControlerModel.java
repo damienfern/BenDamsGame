@@ -1,9 +1,10 @@
 package controler;
 
+import model.business.ChessGameModel;
 import tools.data.Coord;
 import tools.data.Couleur;
 
-public interface ChessGameControlerModel {
+public interface ChessGameControlerModel extends ChessGameModel {
 
 	
 	/**

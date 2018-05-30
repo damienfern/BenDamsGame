@@ -1,5 +1,7 @@
 package model.business;
 
-public class ChessModel {
+import model.ChessModelObs;
+
+public class ChessModel extends ChessModelObs implements ChessGameModel{
 
 }
