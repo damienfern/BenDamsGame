@@ -12,8 +12,8 @@ import model.business.ChessGameModel;
 import tools.BoardGameConfig;
 import tools.data.Couleur;
 import vue.ChessGUI;
-import controler.ChessControlerLocal;
 import controler.ChessGameControlerModelVue;
+import controler.controlerLocal.ChessControlerLocal;
 
 
 

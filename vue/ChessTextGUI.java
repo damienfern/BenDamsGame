@@ -1,10 +1,9 @@
 package vue;
 
-public class ChessTextGUI {
+import javax.swing.*;
 
-	public void appendText(String string) {
-		// TODO Auto-generated method stub
-		
-	}
-
+public class ChessTextGUI extends JPanel {
+    public void appendText(String s) {
+        //TODO : Auto generated
+    }
 }
